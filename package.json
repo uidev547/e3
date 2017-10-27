@@ -1,10 +1,58 @@
 {
-  "name": "e3",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "_args": [
+    [
+      {
+        "raw": "e3@github:uidev547/e3",
+        "scope": null,
+        "escapedName": "e3",
+        "name": "e3",
+        "rawSpec": "github:uidev547/e3",
+        "spec": "github:uidev547/e3",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:uidev547/e3.git",
+          "sshUrl": "git+ssh://git@github.com/uidev547/e3.git",
+          "httpsUrl": "git+https://github.com/uidev547/e3.git",
+          "gitUrl": "git://github.com/uidev547/e3.git",
+          "shortcut": "github:uidev547/e3",
+          "directUrl": "https://raw.githubusercontent.com/uidev547/e3/master/package.json"
+        }
+      },
+      "/home/kirana/projects/multiple-express"
+    ]
+  ],
+  "_from": "uidev547/e3",
+  "_id": "e3@0.0.0",
+  "_inCache": true,
+  "_location": "/e3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "e3@github:uidev547/e3",
+    "scope": null,
+    "escapedName": "e3",
+    "name": "e3",
+    "rawSpec": "github:uidev547/e3",
+    "spec": "github:uidev547/e3",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:uidev547/e3.git",
+      "sshUrl": "git+ssh://git@github.com/uidev547/e3.git",
+      "httpsUrl": "git+https://github.com/uidev547/e3.git",
+      "gitUrl": "git://github.com/uidev547/e3.git",
+      "shortcut": "github:uidev547/e3",
+      "directUrl": "https://raw.githubusercontent.com/uidev547/e3/master/package.json"
+    }
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/uidev547/e3.git#a9221c9d093c4dd0e314a3d8b581cb5b8b540ee4",
+  "_shasum": "154b2972c62943dfa390af30da38710c4c6a1db6",
+  "_shrinkwrap": null,
+  "_spec": "e3@github:uidev547/e3",
+  "_where": "/home/kirana/projects/multiple-express",
   "dependencies": {
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
@@ -13,5 +61,15 @@
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2"
-  }
+  },
+  "devDependencies": {},
+  "gitHead": "a9221c9d093c4dd0e314a3d8b581cb5b8b540ee4",
+  "name": "e3",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "version": "0.0.0"
 }
